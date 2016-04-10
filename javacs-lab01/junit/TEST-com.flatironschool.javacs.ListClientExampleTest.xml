@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="DESKTOP-76K9POS" name="com.flatironschool.javacs.ListClientExampleTest" skipped="0" tests="1" time="0.065" timestamp="2016-04-10T21:38:36">
+<testsuite errors="0" failures="0" hostname="DESKTOP-76K9POS" name="com.flatironschool.javacs.ListClientExampleTest" skipped="0" tests="1" time="0.066" timestamp="2016-04-10T21:44:11">
   <properties>
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="env.SYSTEMROOT" value="C:\WINDOWS" />
@@ -92,7 +92,7 @@
     <property name="java.vm.vendor" value="Oracle Corporation" />
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
     <property name="java.class.path" value="c:\Sites\cs-swapping-implementations-lab-codeu\javacs-lab01\bin;c:\Sites\cs-swapping-implementations-lab-codeu\javacs-lab01\lib\junit-4.12.jar;c:\Sites\cs-swapping-implementations-lab-codeu\javacs-lab01\lib\hamcrest-core-1.3.jar;C:\Program Files\Ant\apache-ant-1.9.6\lib\ant-launcher.jar;C:\Program Files\Ant\apache-ant-1.9.6\lib\ant.jar;C:\Program Files\Ant\apache-ant-1.9.6\lib\ant-junit.jar;C:\Program Files\Ant\apache-ant-1.9.6\lib\ant-junit4.jar" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.ListClientExampleTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,c:\Sites\cs-swapping-implementations-lab-codeu\javacs-lab01\junit\TEST-com.flatironschool.javacs.ListClientExampleTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=c:\Sites\cs-swapping-implementations-lab-codeu\javacs-lab01\junitvmwatcher1698188426173962455.properties propsfile=c:\Sites\cs-swapping-implementations-lab-codeu\javacs-lab01\junit923270537671178147.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.ListClientExampleTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,c:\Sites\cs-swapping-implementations-lab-codeu\javacs-lab01\junit\TEST-com.flatironschool.javacs.ListClientExampleTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=c:\Sites\cs-swapping-implementations-lab-codeu\javacs-lab01\junitvmwatcher4672204392196471528.properties propsfile=c:\Sites\cs-swapping-implementations-lab-codeu\javacs-lab01\junit5417558096065407768.properties" />
     <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
     <property name="env.PROGRAMW6432" value="C:\Program Files" />
     <property name="env.VSSDK140INSTALL" value="C:\Program Files (x86)\Microsoft Visual Studio 14.0\VSSDK\" />
@@ -139,7 +139,7 @@
     <property name="ant.project.invoked-targets" value="test" />
     <property name="env.PROCESSOR_LEVEL" value="6" />
   </properties>
-  <testcase classname="com.flatironschool.javacs.ListClientExampleTest" name="testListClientExample" time="0.004" />
+  <testcase classname="com.flatironschool.javacs.ListClientExampleTest" name="testListClientExample" time="0.005" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
